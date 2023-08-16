@@ -1,0 +1,41 @@
+body {
+    background: black;
+}
+
+.heading{
+    color: red;
+    font-size: 50px;
+    text-decoration:underline;
+    padding-left: 40%;
+}
+
+.container{
+    position: absolute;
+    font-size: 30px;
+    padding: 30px;
+    color: red;
+    top: 49%;
+    left: 30%;
+}
+.element1{
+    margin: 28px;
+}
+.element2{
+    margin: 28px;
+}
+.element3{
+    margin: 20px;
+}
+.element4{
+    margin: 22px;
+}
+
+.digitalClock {
+    position: absolute;
+    top: 45%;
+    left: 32.5%;
+    color: yellow;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
